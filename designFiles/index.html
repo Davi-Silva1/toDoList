@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="icon" href="../assets/images/icon.png">
+    <!-- Modern font pairing with personality -->
+    <link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&family=Chillax:wght@600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">Task-Buddy <i class="fas fa-pencil"></i>
+            </div>
+            <div class="header-actions">
+                <button class="theme-toggle" id="theme-toggle"><i class="fas fa-moon"></i></button>
+            </div>
+        </header>
+
+        <main class="app-container">
+            <aside class="sidebar">
+                <h3 class="nav-title">Menu</h3>
+                <ul class="nav-menu">
+                    <li class="nav-item">
+                        <a href="#" class="nav-link active" data-filter="all">
+                            <i class="fas fa-tasks"></i> All Tasks
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link" data-filter="important">
+                            <i class="fas fa-star"></i> Important
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link" data-filter="completed">
+                            <i class="fas fa-check-circle"></i> Completed
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link" data-filter="pending">
+                            <i class="fas fa-clock"></i> Pending
+                        </a>
+                    </li>
+                </ul>
+            </aside>
+
+            <section class="task-area">
+                <div class="task-header">
+                    <h2 class="task-title" id="current-filter">All Tasks</h2>
+                    <div class="task-actions" id="task-actions">
+                        <button class="btn btn-primary" id="new-task-btn">
+                            <i class="fas fa-plus"></i> New Task
+                        </button>
+                    </div>
+                </div>
+
+                <div class="task-input-container" id="task-input-container">
+                    <input type="text" class="task-input" id="task-input" placeholder="What needs to be done?">
+                    <div class="priority-selector">
+                        <button class="priority-btn priority-high" data-priority="high">Today</button>
+                        <button class="priority-btn priority-medium active" data-priority="medium">This week</button>
+                        <button class="priority-btn priority-low" data-priority="low">Whenever</button>
+                    </div>
+                    <div class="task-controls">
+                        <button class="cancel-btn" id="cancel-task-btn">Cancel</button>
+                        <button class="add-btn" id="add-task-btn">Add Task</button>
+                    </div>
+                </div>
+
+                <ul class="task-list" id="task-list">
+                </ul>
+
+                <div class="stats">
+                    <div class="stat-item">
+                        <div class="stat-number" id="total-tasks">0</div>
+                        <div class="stat-label">Total</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number" id="completed-tasks">0</div>
+                        <div class="stat-label">Completed</div>
+                    </div>
+                    <div class="stat-item">
+                        <div class="stat-number" id="pending-tasks">0</div>
+                        <div class="stat-label">Pending</div>
+                    </div>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <div id="toast" class="toast"></div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
