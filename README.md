@@ -71,6 +71,7 @@ A **dynamic, stylish, and efficient** To-Do List built with **HTML, CSS, and Jav
    cd toDoList
 ```
 3.Navigate to the designFiles folder and open the index.html file
+
 4. Start **adding, managing, and tracking** your tasks like a pro! 💪
 
 ## 🛠️ Tech Stack
