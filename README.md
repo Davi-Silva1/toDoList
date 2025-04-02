@@ -60,7 +60,7 @@ A **dynamic, stylish, and efficient** To-Do List built with **HTML, CSS, and Jav
 
 1. **Clone the Repository**
    ```sh
-git clone https://github.com/dhanushrichandrasekar/toDoList.git
+   git clone https://github.com/dhanushrichandrasekar/toDoList.git
    
    ```
 2.  **Navigate to the project folder:**
