@@ -14,7 +14,13 @@ A **dynamic, stylish, and efficient** To-Do List built with **HTML, CSS, and Jav
 - 🚀 **Priority-Based Organization** – Focus on what matters most.
 - ⚠️ **Alerts on Actions** – Get notified when you add, delete, or make an error.
 
-## 📁 Folder Structure
+## 🎥 Demo
+
+> "Success is no coincidence. It is the result of hard work, perseverance, learning, sacrifice, and most of all, love of what you are doing." – Pelé
+
+🎬 **[Watch the Video Demo](https://github.com/dhanushrichandrasekar/toDoList/blob/908878979810f926c92412aab0e82aeac8851d06/toDoListDemo.mp4)**
+
+## 📁 Project Structure
   🗒️ toDoList 
 │── 📂 assets
 │   ├── 📂 images
@@ -41,11 +47,6 @@ A **dynamic, stylish, and efficient** To-Do List built with **HTML, CSS, and Jav
 │── 📽️ toDoListDemo.mp4
 │── 📄 README.md
 
-## 🎥 Demo
-
-> "Success is no coincidence. It is the result of hard work, perseverance, learning, sacrifice, and most of all, love of what you are doing." – Pelé
-
-🎬 **[Watch the Video Demo](https://github.com/dhanushrichandrasekar/toDoList/blob/908878979810f926c92412aab0e82aeac8851d06/toDoListDemo.mp4)**
 
 ## 📸 To-Do List Website Snapshots
 
