@@ -2,7 +2,8 @@
 
 > "The secret of getting ahead is getting started." – Mark Twain
 
-A **dynamic, stylish, and efficient** To-Do List built with **HTML, CSS, and JavaScript**! 🚀 Organize your tasks, track your progress, and boost your productivity with an intuitive interface. 
+A **dynamic, stylish, and efficient** To-Do List built with **HTML, CSS, and JavaScript**!
+🚀 Organize your tasks, track your progress, and boost your productivity with an intuitive interface. 
 
 ## ✨ Features
 
