@@ -69,7 +69,6 @@ A **dynamic, stylish, and efficient** To-Do List built with **HTML, CSS, and Jav
    
 ```sh
    cd toDoList
-   
 ```
 3.Navigate to the designFiles folder and open the index.html file
 
