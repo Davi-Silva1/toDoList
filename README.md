@@ -46,6 +46,8 @@ A **dynamic, stylish, and efficient** To-Do List built with **HTML, CSS, and Jav
 
 🎬 **[Watch the Video Demo](https://github.com/dhanushrichandrasekar/toDoList/blob/908878979810f926c92412aab0e82aeac8851d06/toDoListDemo.mp4)**
 
+## 📸 To-Do List Website Snapshots
+
 ![Dark Mode Screenshot](https://github.com/dhanushrichandrasekar/toDoList/blob/908878979810f926c92412aab0e82aeac8851d06/screenshots/darkmode1.png)
 ![Dark Mode Screenshot](https://github.com/dhanushrichandrasekar/toDoList/blob/908878979810f926c92412aab0e82aeac8851d06/screenshots/darkmode2.png)
 ![Dark Mode Screenshot](https://github.com/dhanushrichandrasekar/toDoList/blob/908878979810f926c92412aab0e82aeac8851d06/screenshots/darkmode3.png)
@@ -53,7 +55,6 @@ A **dynamic, stylish, and efficient** To-Do List built with **HTML, CSS, and Jav
 ![Dark Mode Screenshot](https://github.com/dhanushrichandrasekar/toDoList/blob/908878979810f926c92412aab0e82aeac8851d06/screenshots/darkmode5.png)
 ![Light Mode Screenshot](https://github.com/dhanushrichandrasekar/toDoList/blob/908878979810f926c92412aab0e82aeac8851d06/screenshots/lightmode1.png)
 ![Light Mode Screenshot](https://github.com/dhanushrichandrasekar/toDoList/blob/908878979810f926c92412aab0e82aeac8851d06/screenshots/lightmode2.png)
-
 
 ## 🚀 How to Use
 
