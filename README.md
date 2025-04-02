@@ -100,8 +100,10 @@ A **dynamic, stylish, and efficient** To-Do List built with **HTML, CSS, and Jav
 Love this project? Want to make it even better? Feel free to fork, and contribute!
 
 **Clone the Repository**
+
 ```sh
  git clone https://github.com/dhanushrichandrasekar/toDoList.git
+
 ```
 
 ## 📬 Contact
