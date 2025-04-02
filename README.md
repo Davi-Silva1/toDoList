@@ -43,7 +43,7 @@ A **dynamic, stylish, and efficient** To-Do List built with **HTML, CSS, and Jav
 
 ## 🎥 Demo
 
-> "Productivity is never an accident. It is always the result of a commitment to excellence, intelligent planning, and focused effort." – Paul J. Meyer
+> "Success is no coincidence. It is the result of hard work, perseverance, learning, sacrifice, and most of all, love of what you are doing." – Pelé
 
 🎬 **[Watch the Video Demo](https://github.com/dhanushrichandrasekar/toDoList/blob/908878979810f926c92412aab0e82aeac8851d06/toDoListDemo.mp4)**
 
@@ -61,17 +61,19 @@ A **dynamic, stylish, and efficient** To-Do List built with **HTML, CSS, and Jav
 
 1. **Clone the Repository**
    
-   ```sh
+```sh
    git clone https://github.com/dhanushrichandrasekar/toDoList.git
-   
-   ```
+
+```
 2.  **Navigate to the project folder:**
    
-   ```sh
+```sh
    cd toDoList
    
-   ```
-3. Open index.html in your browser.
+```
+3.Navigate to the designFiles folder and open the index.html file
+
+
 4. Start **adding, managing, and tracking** your tasks like a pro! 💪
 
 ## 🛠️ Tech Stack
