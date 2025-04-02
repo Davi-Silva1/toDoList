@@ -1,4 +1,4 @@
-# ✅ To-Do List
+# 📝 To-Do List
 
 > "The secret of getting ahead is getting started." – Mark Twain
 
@@ -70,7 +70,7 @@ A **dynamic, stylish, and efficient** To-Do List built with **HTML, CSS, and Jav
 ```sh
    cd toDoList
 ```
-3.Navigate to the designFiles folder and open the index.html file
+3.  **Navigate to the designFiles folder and open the index.html file**
 
 ## 🛠️ Tech Stack
 
