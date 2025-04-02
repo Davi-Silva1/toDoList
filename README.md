@@ -63,8 +63,13 @@ A **dynamic, stylish, and efficient** To-Do List built with **HTML, CSS, and Jav
    git clone https://github.com/dhanushrichandrasekar/toDoList.git
    
    ```
-2. **Open `index.html` in your browser**
-3. Start **adding, managing, and tracking** your tasks like a pro! 💪
+2.  **Navigate to the project folder:**
+   ```sh
+   cd toDoList
+   
+   ```
+3. Open index.html in your browser.
+4. Start **adding, managing, and tracking** your tasks like a pro! 💪
 
 ## 🛠️ Tech Stack
 
