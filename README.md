@@ -108,9 +108,8 @@ Love this project? Want to make it even better? Feel free to fork, and contribut
 
 💡 Have ideas or suggestions? Let’s connect!
 - 📧 Email: dhanushri1702@gmail.com
-- 💻 GitHub: https://github.com/dhanushrichandrasekar
+- 📌 GitHub:  [Dhanushri Chandrasekar](https://github.com/dhanushrichandrasekar)  
 - 🔗 LinkedIn: https://www.linkedin.com/in/dhanushri17
-
 
 ---
 
