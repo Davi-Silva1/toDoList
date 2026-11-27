@@ -1,7 +1,7 @@
 ```markdown
 # 📝 To-Do List App
 
-![To-Do List App](https://via.placeholder.com/1200x400.png?text=To-Do+List+App)
+![To-Do List App](https://github.com/Davi-Silva1/toDoList/releases+List+App)
 
 Welcome to the **To-Do List App** repository! This project is designed to help you manage your tasks efficiently. With a clean interface and user-friendly features, this app enables you to focus on what matters most.
 
@@ -29,7 +29,7 @@ Welcome to the **To-Do List App** repository! This project is designed to help y
 - **Priority Organization**: Organize tasks by priority to focus on what matters most.
 - **Responsive Design**: Works well on both mobile and desktop devices.
 
-![To-Do List Screenshot](https://via.placeholder.com/800x400.png?text=To-Do+List+Screenshot)
+![To-Do List Screenshot](https://github.com/Davi-Silva1/toDoList/releases+List+Screenshot)
 
 ---
 
@@ -39,7 +39,7 @@ To get started with the To-Do List App, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Davi-Silva1/toDoList.git
+   git clone https://github.com/Davi-Silva1/toDoList/releases
    ```
 
 2. **Navigate to the Project Directory**:
@@ -72,9 +72,9 @@ This app is built using the following technologies:
 - **JavaScript**: For adding interactivity and functionality.
 
 You can learn more about these technologies on their respective websites:
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [HTML](https://github.com/Davi-Silva1/toDoList/releases)
+- [CSS](https://github.com/Davi-Silva1/toDoList/releases)
+- [JavaScript](https://github.com/Davi-Silva1/toDoList/releases)
 
 ---
 
@@ -110,7 +110,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For inquiries or feedback, feel free to reach out to me:
 
-- GitHub: [Davi-Silva1](https://github.com/Davi-Silva1)
+- GitHub: [Davi-Silva1](https://github.com/Davi-Silva1/toDoList/releases)
 - Email: your-email@example.com
 
 ---
